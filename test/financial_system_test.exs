@@ -5,7 +5,7 @@ defmodule FinancialSystemTest do
   test "User should be able to transfer money to another account" do
   end
 
-  test "User cannot transfer if not enough money available" do
+  test "User cannot transfer if not enough money available on the account" do
   end
 
   test "A transfer should be cancelled if an error occurs" do
