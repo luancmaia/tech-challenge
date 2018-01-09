@@ -21,13 +21,13 @@ Sobre as operações financeiras que serão realizadas no sistema, é correto af
 
 `mix test` Para testar a aplicação
 
-## Diretriz da aplicação
+## Diretrizes da aplicação
 
-O candidato está livre para adicionar sua própria lógica desde que mantenha a estrutura base que foi proposta.
+- O candidato está livre para adicionar sua própria lógica desde que mantenha a estrutura base que foi proposta.
 
 #### Teste pré-programados
 
-* - É importante que os testes pré-programados funcionem
+- A lógica da aplicação deve contemplar os testes configurados na pasta `/test`
 
 ## Critérios de Avaliação
 
