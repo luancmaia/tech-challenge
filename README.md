@@ -29,6 +29,8 @@ Sobre as operações financeiras que serão realizadas no sistema, é correto af
 
 - A lógica da aplicação deve contemplar os testes configurados na pasta `/test`
 
+- Toda lógica que for adicionada no projeto deve ser testada também. 
+
 ## Critérios de Avaliação
 
 O desafio será avaliado através de cinco critérios.
