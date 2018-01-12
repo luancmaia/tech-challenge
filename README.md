@@ -8,7 +8,7 @@ Precisamos de pessoas com energia, integridade e inteligência, que aprendam rá
 
 O tempo sugerido para conclusão do desafio é de um mês, mas não é uma regra! Não temos prazo para entrega, queremos que você se dedique e demonstre a qualidade de seu código. Estamos mais interessados em observar a qualidade da solução do que o tempo que você vai demorar.
 
-Quando sua solução estiver pronta, envie um e-mail para code@stone.com.br com o link do seu repositório no Github. Você receberá um e-mail com a confirmação de recebimento.
+Quando sua solução estiver pronta, envie um e-mail para tech.challenge@stone.com.br com o link do seu repositório no Github. Você receberá um e-mail com a confirmação de recebimento.
 
 Em seguida, enviaremos o feedback e as instruções dos próximos passos!
 
