@@ -1,4 +1,25 @@
-# Manipulação de Dinheiro
+# Tech Challenge 
+
+Bem vindo(a)! Esse é o Tech Challenge Elixir!
+
+Aqui você terá todas as informações para o sucesso do seu desafio. Ele consiste em aplicar a linguagem funcional Elixir. Não se preocupe! Não cobramos experiência prévia com essa linguagem. Junto com o desafio disponibilizamos um material para estudo.
+
+Precisamos de pessoas com energia, integridade e inteligência, que aprendam rápido e que gostem de conhecer e aplicar novas tecnologias.
+
+O tempo sugerido para conclusão do desafio é de um mês, mas não é uma regra! Não temos prazo para entrega, queremos que você se dedique e demonstre a qualidade de seu código. Estamos mais interessados em observar a qualidade da solução do que o tempo que você vai demorar.
+
+Quando sua solução estiver pronta, envie um e-mail para code@stone.com.br com o link do seu repositório no Github. Você receberá um e-mail com a confirmação de recebimento.
+
+Em seguida, enviaremos o feedback e as instruções dos próximos passos!
+
+Caso tenha alguma dúvida, nós estamos disponíveis no twitter @StonePagamentos através da #StoneTechChallenge
+
+Bom desafio!
+
+---
+
+# O Desafio
+
 O Sistema Financeiro precisa representar valores monetários. A ideia básica é ter uma estrutura de dados que permita realizar operações financeiras com dinheiro dentro de uma mesma moeda. 
 
 Essas operações financeiras precisam ser seguras e devem interromper a execução do programa em caso de erros críticos.
