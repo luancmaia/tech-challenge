@@ -46,7 +46,7 @@ Sobre as operações financeiras que serão realizadas no sistema, é correto af
 
 - O candidato está livre para adicionar sua própria lógica desde que mantenha a estrutura base que foi proposta.
 
-#### Teste pré-programados
+#### Testes pré-programados
 
 - A lógica da aplicação deve contemplar os testes configurados na pasta `/test`
 
